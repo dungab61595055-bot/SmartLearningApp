@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Learning App</string>
+    <string name="welcome">Chào mừng đến Smart Learning App</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="register">Đăng Ký</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="name">Tên</string>
+    <string name="add_subject">Thêm môn học</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="statistics">Thống kê</string>
+    <string name="schedule">Lịch</string>
+    <string name="subjects">Môn học</string>
+    <string name="tasks">Bài tập</string>
+    <string name="quizzes">Trắc nghiệm</string>
+</resources>

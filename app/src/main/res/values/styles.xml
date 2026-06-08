@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.TextAppearance.AppCompat.Display1" parent="TextAppearance.AppCompat.Display1" />
+    <style name="Theme.SmartLearningApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+</resources>
